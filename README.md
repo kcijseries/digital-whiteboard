@@ -16,3 +16,4 @@ A lightweight, offline-first browser blackboard for large-display typing, text h
 ## Included Files
 * `index.html` — Complete self-contained application (UI, styles, and logic).
 * `Lexend-VariableFont_wght.ttf` & `LETTG__.TTF` — Bundled fonts for offline rendering.
+<img width="1917" height="1080" alt="Screenshot_20261112_190747" src="https://github.com/user-attachments/assets/7be3d2aa-e484-4768-b6b8-23a01165e9f3" />
